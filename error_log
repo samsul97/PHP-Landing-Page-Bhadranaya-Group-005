@@ -1,0 +1,60 @@
+[16-Mar-2021 00:09:30 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:10:03 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:11:13 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:11:15 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:15:16 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:20:18 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:20:54 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:20:57 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:22:03 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 02:16:37 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/action.php(3): include()
+#1 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19

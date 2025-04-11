@@ -1,0 +1,343 @@
+[12-Mar-2021 03:12:08 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(194): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 03:12:33 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(194): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 03:15:57 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(194): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 03:54:10 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(194): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 03:59:03 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(194): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:02:01 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(211): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(211): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:05:26 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(194): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:06:23 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(211): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:07:13 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:08:49 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:23:42 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:24:42 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:25:08 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:26:19 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 04:29:57 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 05:56:36 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 06:23:12 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 06:23:15 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[12-Mar-2021 06:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php:10
+Stack trace:
+#0 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content/dashboard.php(47): include()
+#1 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/content.php(10): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/ultah-holycow/xyz/aiueo/index.php(237): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/ultah-holycow/include/koneksi.php on line 10
+[15-Mar-2021 23:59:03 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[15-Mar-2021 23:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[15-Mar-2021 23:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:02:20 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:07:26 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:07:28 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:07:39 UTC] PHP Warning:  include(../include/koneksi.php): failed to open stream: No such file or directory in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 95
+[16-Mar-2021 00:07:39 UTC] PHP Warning:  include(): Failed opening '../include/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 95
+[16-Mar-2021 00:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php:119
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#2 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 119
+[16-Mar-2021 00:07:53 UTC] PHP Warning:  include(../include/koneksi.php): failed to open stream: No such file or directory in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 95
+[16-Mar-2021 00:07:53 UTC] PHP Warning:  include(): Failed opening '../include/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 95
+[16-Mar-2021 00:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php:119
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#2 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 119
+[16-Mar-2021 00:08:12 UTC] PHP Warning:  include(../include/koneksi.php): failed to open stream: No such file or directory in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 95
+[16-Mar-2021 00:08:12 UTC] PHP Warning:  include(): Failed opening '../include/koneksi.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 95
+[16-Mar-2021 00:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_query() in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php:119
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#2 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 119
+[16-Mar-2021 00:37:30 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:37:33 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:37:33 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:41:19 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:44:36 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:52:50 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:55:16 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 00:55:32 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 03:20:34 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 03:20:45 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 03:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[16-Mar-2021 03:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/bhadrana/public_html/holycowultah/include/koneksi.php:19
+Stack trace:
+#0 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php(95): include()
+#1 /home/bhadrana/public_html/holycowultah/xyz/aiueo/content.php(19): include('/home/bhadrana/...')
+#2 /home/bhadrana/public_html/holycowultah/xyz/aiueo/index.php(475): include('/home/bhadrana/...')
+#3 {main}
+  thrown in /home/bhadrana/public_html/holycowultah/include/koneksi.php on line 19
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 08:52:01 UTC] PHP Notice:  Undefined index: tkp in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 139
+[17-Mar-2021 12:52:06 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/bhadrana/public_html/holycowultah/xyz/aiueo/content/dashboard.php on line 171
